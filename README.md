@@ -1,1 +1,2 @@
-WorkWithArrays. C# Tutorials. DotNet Framework Platform. Arrays. Simple Input/Output. Console Application. 
+WorkWithArrays. C# Tutorials. DotNet Framework Platform. Simple Input/Output. Arrays. Console Application. 
+WorkWithArrays. Занятия по С#. Платформа DotNet Framework. Простой ввод/вывод. Массивы. Консольное приложение.
